@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#item_cell_32-350-881_1_0\"}\n  (Session info: chrome=107.0.5304.122)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00C3ACD3+2075859]\n\tOrdinal0 [0x00BCEE61+1633889]\n\tOrdinal0 [0x00ACB7BD+571325]\n\tOrdinal0 [0x00AFAC2F+764975]\n\tOrdinal0 [0x00AFAE1B+765467]\n\tOrdinal0 [0x00B2D0F2+970994]\n\tOrdinal0 [0x00B17364+881508]\n\tOrdinal0 [0x00B2B56A+963946]\n\tOrdinal0 [0x00B17136+880950]\n\tOrdinal0 [0x00AEFEFD+720637]\n\tOrdinal0 [0x00AF0F3F+724799]\n\tGetHandleVerifier [0x00EEEED2+2769538]\n\tGetHandleVerifier [0x00EE0D95+2711877]\n\tGetHandleVerifier [0x00CCA03A+521194]\n\tGetHandleVerifier [0x00CC8DA0+516432]\n\tOrdinal0 [0x00BD682C+1665068]\n\tOrdinal0 [0x00BDB128+1683752]\n\tOrdinal0 [0x00BDB215+1683989]\n\tOrdinal0 [0x00BE6484+1729668]\n\tBaseThreadInitThunk [0x7650FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77347BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77347B8E+238]\n"
+}
